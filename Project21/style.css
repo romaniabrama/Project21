@@ -1,0 +1,33 @@
+body{
+    background-color: #F5F5F5;
+}
+
+.box{
+    width: 350px;
+    height: 580px;
+    margin-left: 450px;
+    
+}
+
+img{
+    width: 350px;
+    height: 500px;
+
+}
+
+.box2{
+    width: 350px;
+    height: 370px;
+    background-color: #B2A19D;
+    position: absolute; top: 355px;
+
+}
+
+p{
+    color: #354259
+}
+
+.button{
+    width: 150px;
+    height: 35px;
+}
